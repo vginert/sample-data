@@ -1,0 +1,37 @@
+[
+    {
+        "id": "89c8cb75-facb-448e-b14c-5d26c4b4826f",
+        "name": "Meat",
+        "image": "https://raw.githubusercontent.com/vginert/sample-data/master/grocery/categories/meat.png"
+    },
+    {
+        "id": "6375b1b5-d38b-4e61-a490-40b8836ee2cd",
+        "name": "Fish",
+        "image": "https://raw.githubusercontent.com/vginert/sample-data/master/grocery/categories/fish.png"
+    },
+    {
+        "id": "8ed59a7d-39e9-4bf4-a96a-b12d41bf47c4",
+        "name": "Vegetables",
+        "image": "https://raw.githubusercontent.com/vginert/sample-data/master/grocery/categories/vegetables.png"
+    },
+    {
+        "id": "24ee5d69-13c6-41d7-aa04-11732a743307",
+        "name": "Drinks",
+        "image": "https://raw.githubusercontent.com/vginert/sample-data/master/grocery/categories/drinks.png"
+    },
+    {
+        "id": "5021d591-2beb-466f-b43d-b64833538975",
+        "name": "Fruits",
+        "image": "https://raw.githubusercontent.com/vginert/sample-data/master/grocery/categories/fruits.png"
+    },
+    {
+        "id": "260d2978-d58f-4c5d-884b-38ea2b822935",
+        "name": "Cold meats and cheeses",
+        "image": "https://raw.githubusercontent.com/vginert/sample-data/master/grocery/categories/cheese.png"
+    },
+    {
+        "id": "2447edfd-c5cd-4bcc-95a7-b05763631939",
+        "name": "Fast food",
+        "image": "https://raw.githubusercontent.com/vginert/sample-data/master/grocery/categories/pizza.png"
+    }
+]
