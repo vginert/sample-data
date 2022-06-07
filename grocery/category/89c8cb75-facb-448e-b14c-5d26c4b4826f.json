@@ -5,7 +5,8 @@
         "price": {
             "amount": 12.99,
             "currency": "EUR"
-        }
+        },
+        "image_url": "https://raw.githubusercontent.com/vginert/sample-data/master/grocery/product/beef.png"
     },
     {
         "id": "eaa67fae-447e-41b7-9f71-0c38388650f0",
@@ -13,7 +14,8 @@
         "price": {
             "amount": 14.99,
             "currency": "EUR"
-        }
+        },
+        "image_url": "https://raw.githubusercontent.com/vginert/sample-data/master/grocery/product/lamb.png"
     },
     {
         "id": "8a77c46a-c94f-4d20-94c8-ce558d58bc6a",
@@ -21,7 +23,8 @@
         "price": {
             "amount": 4.87,
             "currency": "EUR"
-        }
+        },
+        "image_url": "https://raw.githubusercontent.com/vginert/sample-data/master/grocery/product/chicken.png"
     },
     {
         "id": "3394d3a8-5a86-4b1c-b822-04621cb5dde1",
@@ -29,7 +32,8 @@
         "price": {
             "amount": 7.22,
             "currency": "EUR"
-        }
+        },
+        "image_url": "https://raw.githubusercontent.com/vginert/sample-data/master/grocery/product/turkey.png"
     },
     {
         "id": "b6d4491a-7d38-4666-a59e-8bcf30a18ea6",
@@ -37,7 +41,8 @@
         "price": {
             "amount": 13.45,
             "currency": "EUR"
-        }
+        },
+        "image_url": "https://raw.githubusercontent.com/vginert/sample-data/master/grocery/product/duck.png"
     },
     {
         "id": "dd2b4ee8-09f7-406b-90e7-d318cb3f40d4",
@@ -45,6 +50,7 @@
         "price": {
             "amount": 5.45,
             "currency": "EUR"
-        }
+        },
+        "image_url": "https://raw.githubusercontent.com/vginert/sample-data/master/grocery/product/pork.png"
     }
 ]
